@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.private-search-engine/
+*.sqlite3
+*.sqlite3-shm
+*.sqlite3-wal
